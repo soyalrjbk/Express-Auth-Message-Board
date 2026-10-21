@@ -2,15 +2,25 @@
 
 A full-stack message board where users sign up, log in, and post messages that everyone can vote on. Each message can be liked, disliked, or deleted, and every change is saved to MongoDB so the board stays up to date for all users.
 
-**Link to project:** https://express-auth-message-board.onrender.com
-
 [![Screenshot-2026-10-21-at-5-31-19-AM.png](https://i.postimg.cc/25dFfqdh/Screenshot-2026-10-21-at-5-31-19-AM.png)](https://postimg.cc/McTj7pFp)
 
 [![Screenshot-2026-10-21-at-5-30-53-AM.png](https://i.postimg.cc/mZp3RWML/Screenshot-2026-10-21-at-5-30-53-AM.png)](https://postimg.cc/QV5KkP0w)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Node.js, Express, EJS, MongoDB, Mongoose, Passport.js, Bootstrap, Font Awesome
+**Tech used:** 
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Passport](https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 This project started from an existing authentication codebase, and my job was to clean it up and get the thumbs-down feature working end to end.
 
